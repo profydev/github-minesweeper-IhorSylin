@@ -30,6 +30,11 @@
     "clear H6",
     "clear H7",
     "clear H8",
-    "clear H2"
+    "clear H2",
+    "flag H1",
+    "flag G4",
+    "flag G7",
+    "clear G5",
+    "clear G8"
   ]
 }
